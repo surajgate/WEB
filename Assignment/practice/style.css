@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+}
+
+.one p{
+    border: 1px solid;
+    width: 100%;
+    height: 100%;
+}
+
+.two p{
+    border: 1px dashed;
+   
+    
+}
+.two:hover p{
+    background-color: grey;
+}
+
+
+.three p{
+    background-color: rgb(167, 59, 189);
+}
+.three b{
+    background-color: brown;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial;
+    background-color: blueviolet; 
+}
+u{
+    text-decoration: none;
+}
+
+.six p{
+    text-align: justify;
+}
+
+.seven p{
+    text-indent: 100px;
+}
+
+.eight p{
+    text-decoration: line-through;
+}
+
+.nine{
+    text-decoration: none;
+    color: red;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+.ten img:hover{
+    border-radius: 50%;
+}
+
+.eleven p {
+    line-height: double;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+}
+
+.twelve p{
+    font-family:  "Sofia", sans-serif;;
+}
+
+.sixteen li{
+    list-style-type: none;
+    margin-right: 20px;
+   
+}
+.sixteen ol{
+    display: flex;
+}
+
+.seventeen p {
+    background-color: rgb(131, 26, 126);
+    background: rgb(151, 87, 87);
+    background: #458d48;
+}
+.eighteen p {
+    background: rgba(151,87,87,0.3);
+}
+
+.ninteen{
+    width: 100%;
+    height: 100%;
+    margin-left: 300px;
+    margin-top: 200px;
+}
+
+.twenty{
+    /* border: solid; */
+    width: 1200px;
+    height: 200px;
+    margin: auto;
+    ;
+}

@@ -1,0 +1,169 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: Roboto, Arial, sans-serif;
+}
+.navbar .container {
+    margin-left: 50px;
+}
+.navbar-expand-lg {
+
+    background-color: #2874f0 !important;
+    height: 56px;
+    /* position: fixed;
+    margin: auto; */
+}
+
+
+
+
+header .img-fluid {
+    margin: auto;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    max-width: 100%;
+    height: auto;
+    width: 75px !important;
+
+}
+
+.d-flex input {
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0;
+    outline: 0 none;
+    font-size: 14px;
+    height: 36px;
+    width: 357px;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.d-flex button {
+    font-family: Roboto, Arial, sans-serif;
+    pointer-events: none;
+    color: #2874f0;
+    font-weight: 500;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 2px;
+    height: 32px;
+    padding: 2px 40px;
+    border: 1px solid #dbdbdb;
+    margin-left: 20px;
+    margin-top: 2px;
+    font-family: Roboto, Arial, sans-serif;
+
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav {
+    padding-left: 70px;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.fa{
+    padding-right: 10px;
+}
+ .img-fluid{
+    /* position: absolute; */
+    height: auto;
+    width: 64px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: 0px;
+    opacity: 1;
+    max-width: 100%;
+    max-height: 100%;
+}
+.container {
+    max-width: 100%;
+    align-content: center;
+    text-align: center;
+
+}
+
+.col-xl-6 .row .col-xl-3 b:hover {
+    color: #2874f0;
+    opacity: 1;
+}
+
+b, strong {
+    font-weight: unset;
+    opacity: 2.2;
+  }
+
+
+
+
+
+
+
+
+  .parent {
+	display: block;
+	position: relative;
+	float: left;
+	line-height: 30px;
+	background-color: #4FA0D8;
+	border-right: #CCC 1px solid;
+}
+
+.parent a {
+	margin: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.parent:hover>ul {
+	display: block;
+	position: absolute;
+}
+
+.child {
+	display: none;
+}
+
+.child li {
+	background-color: #E4EFF7;
+	line-height: 30px;
+	border-bottom: #CCC 1px solid;
+	border-right: #CCC 1px solid;
+	width: 100%;
+}
+
+.child li a {
+	color: #000000;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0px;
+	min-width: 10em;
+}
+
+ul ul ul {
+	left: 100%;
+	top: 0;
+	margin-left: 1px;
+}
+
+li:hover {
+	background-color: #95B4CA;
+}
+
+.parent li:hover {
+	background-color: #F0F0F0;
+}
+
+.expand {
+	font-size: 12px;
+	float: right;
+	margin-right: 5px;
+}

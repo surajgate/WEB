@@ -1,0 +1,15 @@
+  <nav>
+            <div class="container">
+
+                <div class="row">
+                    <img class="img-fluid col-xl-2"
+                        src="https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/flipkart-plus_8d85f4.png"
+                        alt="">
+                    
+                    <div class="search col-xl-2">
+                        <input type="text">
+                    </div>
+                 
+                </div>
+            </div>
+        </nav>
